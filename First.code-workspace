@@ -5,6 +5,6 @@
     }
   ],
   "settings": {
-    "jupyter.sendSelectionToInteractiveWindow": true
+    "jupyter.interactiveWindow.textEditor.executeSelection": true
   }
 }
